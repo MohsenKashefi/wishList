@@ -1,0 +1,18 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">My Wish List</string>
+
+    <!-- Labels -->
+    <string name="title_label">Title</string>
+    <string name="description_label">Description</string>
+
+    <!-- Buttons -->
+    <string name="add_wish">Add Wish</string>
+    <string name="update_wish">Update Wish</string>
+    <string name="delete_wish">Delete Wish</string>
+
+    <!-- Snackbar / Messages -->
+    <string name="fill_all_fields">Please fill in all fields</string>
+    <string name="wish_created">Wish created</string>
+    <string name="wish_updated">Wish updated</string>
+</resources>
